@@ -1,6 +1,6 @@
 # Exercise 1.1 Ada Lovelace
 
-The program template contains the following:
+The program template contains the following: 
 
 ```python
 def main():
